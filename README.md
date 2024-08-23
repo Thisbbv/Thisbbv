@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 17!
   
-<a href="https://github.com/Thisbbv/Thisbbv/blob/main/Curr%C3%ADculo.pdf" class="nav-link>**Curriculo**</a>
+<a href="https://github.com/Thisbbv/Thisbbv/blob/main/Curr%C3%ADculo.pdf" class="nav-link">**Curriculo**</a>
