@@ -1,6 +1,6 @@
 ![logo](https://github.com/Thisbbv/Thisbbv/blob/main/senai-logo-3.png)
 
-![logo](https://github.com/Thisbbv/Thisbbv/blob/main/Doc1.docx)
+![logo](https://github.com/Thisbbv/Thisbbv/blob/main/Curr%C3%ADculo.pdf)
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning IOT and Database
@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 17!
   
-<a href="https://github.com/Thisbbv/Thisbbv/blob/main/Doc1.docx" class="nav-link"
+<a href="https://github.com/Thisbbv/Thisbbv/blob/main/Curr%C3%ADculo.pdf" class="nav-link>**Curriculo**</a>
