@@ -1,6 +1,6 @@
 ![logo](https://github.com/Thisbbv/Thisbbv/blob/main/senai-logo-3.png)
 
-
+![logo](https://github.com/Thisbbv/Thisbbv/blob/main/Doc1.docx)
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning IOT and Database
